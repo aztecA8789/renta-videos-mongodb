@@ -97,6 +97,7 @@ mongosh --file consultas.js
 * Suma todos los pagos con `aggregate` y `$group`.
 
 <img width="1355" height="765" alt="WhatsApp Image 2026-11-06 at 7 51 54 AM" src="https://github.com/user-attachments/assets/6d81150a-7688-43fc-8a89-6bf6175f5a76" />
+
 ## Resultados
 
 * Videos disponibles: **1**
