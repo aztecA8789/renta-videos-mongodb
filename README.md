@@ -6,7 +6,7 @@ base de datos en mongo db grupo 1
 ### Integrantes
 
 * Ignacio Fernandez Itusaca
-* Jasser Rodrigo Caba Murillo
+* Yasser Rodrigo Caba Murillo
 * Harold Yasmani Alvarez Limachi
 * Emilio Garcia Burgoa
 
@@ -91,6 +91,7 @@ mongosh --file consultas.js
 * Muestra solo las películas con `estado: "disponible"`.
 
 <img width="1366" height="768" alt="WhatsApp Image 2026-11-06 at 8 00 15 AM" src="https://github.com/user-attachments/assets/48e9b94d-3eae-4690-9fca-6e3485a9122b" />
+
 ### 5. Consulta: rentas activas e ingresos totales
 
 * Muestra las rentas con `estadoRenta: "activo"`.
